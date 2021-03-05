@@ -102,8 +102,9 @@ class _HomeState extends State<Home> {
                     children: <Widget>[
                       Column(
                         children: <Widget>[
+                          Text(""),
                           Text(
-                              "Padukan gaya dan pengalamanmu di panggung kompetitif global. Kamu diberi 13 ronde untuk menyerang dan mempertahankan sisimu dengan keahlian tembak-menembak sengit dan kemampuan taktis. Dengan satu nyawa per ronde, kamu harus berpikir lebih cepat daripada lawan jika ingin tetap hidup. Habisi musuh baik di mode Kompetitif maupun Tanpa Pangkat serta Deathmatch dan Spike Segera.",
+                              "       Padukan gaya dan pengalamanmu di panggung kompetitif global. Kamu diberi 13 ronde untuk menyerang dan mempertahankan sisimu dengan keahlian tembak-menembak sengit dan kemampuan taktis. Dengan satu nyawa per ronde, kamu harus berpikir lebih cepat daripada lawan jika ingin tetap hidup. Habisi musuh baik di mode Kompetitif maupun Tanpa Pangkat serta Deathmatch dan Spike Segera.",
                               style: TextStyle(
                                   color: Colors.white,
                                   fontWeight: FontWeight.normal, fontSize: 16),
@@ -111,7 +112,7 @@ class _HomeState extends State<Home> {
                           Text(""),
                           Text(""),
                           Text(
-                              "Lebih dari sekadar senjata dan peluru, kamu akan memilih Agen bersenjatakan kemampuan yang adaptif, tangkas, dan mematikan untuk membuktikan keahlian menembakmu. Sebagaimana tiap sidik jari selalu berbeda, begitu pula di sini; tak akan ada Agen dengan karakteristik sama.",
+                              "       Lebih dari sekadar senjata dan peluru, kamu akan memilih Agen bersenjatakan kemampuan yang adaptif, tangkas, dan mematikan untuk membuktikan keahlian menembakmu. Sebagaimana tiap sidik jari selalu berbeda, begitu pula di sini; tak akan ada Agen dengan karakteristik sama.",
                               style: TextStyle(
                                 color: Colors.white,
                                   fontWeight: FontWeight.normal, fontSize: 16),
@@ -119,7 +120,7 @@ class _HomeState extends State<Home> {
                           Text(""),
                           Text(""),
                           Text(
-                              "Tiap peta adalah panggung tersendiri untuk memamerkan kemampuan berpikir kreatifmu. Dirancang sesuai untuk strategi tim, laga spektakuler, dan momen sengit. Perlihatkan kepiawaian yang akan ditiru oleh pemain lain sampai bertahun-tahun mendatang.",
+                              "       Tiap peta adalah panggung tersendiri untuk memamerkan kemampuan berpikir kreatifmu. Dirancang sesuai untuk strategi tim, laga spektakuler, dan momen sengit. Perlihatkan kepiawaian yang akan ditiru oleh pemain lain sampai bertahun-tahun mendatang.",
                               style: TextStyle(
                                 color: Colors.white,
                                   fontWeight: FontWeight.normal, fontSize: 16),
