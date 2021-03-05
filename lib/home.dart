@@ -131,7 +131,11 @@ class _HomeState extends State<Home> {
             ],
           ),
         ),
-        FloatingActionButton(
+        Container(
+          margin: EdgeInsets.all(8),
+          child: Align(
+            alignment: Alignment.topRight,
+            child: FloatingActionButton(
           
               onPressed: () {
                 setState(() {
@@ -148,6 +152,9 @@ class _HomeState extends State<Home> {
                 Icons.favorite,
                 color: favcolor,
               ),
+          ),
+        ),
+        
                          
         
     )
